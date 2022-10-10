@@ -1,4 +1,11 @@
 ```
+yum install nginx -y
+```
+```
+systemctl enable --now nginx
+```
+
+```
 yum install epel-release -y
 ```
 
