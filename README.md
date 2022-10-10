@@ -1,8 +1,10 @@
 ```yum install epel-release -y
 ```
+
 ```
 yum install certbot python3-certbot-nginx -y
 ```
+
 ```
 certbot --nginx -d your_domain -d www.your_domain
 ```
