@@ -1,4 +1,5 @@
-```yum install epel-release -y
+```
+yum install epel-release -y
 ```
 
 ```
